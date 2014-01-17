@@ -1,0 +1,9 @@
+# phpstorm project files
+.idea
+
+# local files
+*.local.*
+
+# composer files
+vendor
+composer.lock
